@@ -17,4 +17,5 @@ or with regular pip
 `pip install cookiecutter==1.7.3`
 
 now cut out your pong shaped cookie!
+
 `cookiecutter https://github.com/sabadam32/cookiecutter-glitchygames-pong`
